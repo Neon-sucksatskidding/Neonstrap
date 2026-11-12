@@ -7,13 +7,6 @@
 ![][banner-light]
 ![][banner-dark]
 
-![][badge-license]
-![][badge-actions]
-![][badge-downloads]
-[![][badge-latest]][repo-latest]
-[![][badge-discord]][discord-invite]
-![][badge-stars]
-
 </div>
 
 Neonstrap (pronounced neon-strap) is a custom bootstrapper for Roblox based on
