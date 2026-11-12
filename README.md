@@ -1,6 +1,6 @@
 
 > [!CAUTION]
-> This is a FORK, mainly made so I can make Neonstrap my own.
+> This is a FORK, mainly made so I can make Fishstrap my own.
 
 <div align="center">
 
