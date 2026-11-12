@@ -30,40 +30,12 @@ post in [our Discord server][discord-invite]'s `#support-and-bugs` channel.
     affect Roblox Studio. [Learn more][devforum-fflags]
 - Global Basic Settings editor
   - Ability to increase frame rate cap, toggle quality levels and more
-- Neonstrap's own game invites
-  - Try it out now — this link will lead you to Crossroads (don't turn left!):
-    <https://www.neonstrap.app/v1/joingame?placeId=1818>
 - Cache cleaner, channel switcher and many more
 
 ## Special thanks
 
 - [Valra](https://github.com/NotValra) for providing their API
 - Other independent contributors
-
-<div align="center">
-
-![][repo-showcase-light]
-![][repo-showcase-dark]
-
-</div>
-
-[banner-light]: https://github.com/neonstrap/neonstrap/raw/main/Images/Neonstrap-Light.png#gh-light-mode-only
-[banner-dark]: https://github.com/neonstrap/neonstrap/raw/main/Images/Neonstrap-Dark.png#gh-dark-mode-only
-
-[badge-license]: https://img.shields.io/github/license/neonstrap/neonstrap?style=flat-square
-[badge-actions]: https://img.shields.io/github/actions/workflow/status/neonstrap/neonstrap/ci-release.yml?branch=main&style=flat-square&label=builds
-[badge-downloads]: https://img.shields.io/github/downloads/neonstrap/neonstrap/latest/total?style=flat-square&color=981bfe
-[badge-latest]: https://img.shields.io/github/v/release/neonstrap/neonstrap?style=flat-square&color=7a39fb
-[badge-discord]: https://img.shields.io/discord/1299397064165429360?style=flat-square&logo=discord&logoColor=white&logoSize=auto&label=discord&color=4d3dff
-[badge-stars]: https://img.shields.io/github/stars/neonstrap/neonstrap?style=flat-square&color=dd9900
-
-[repo-latest]: https://github.com/neonstrap/neonstrap/releases/latest
-[repo-new-issue]: https://github.com/neonstrap/neonstrap/issues/new/choose
-
-[repo-showcase-dark]: https://github.com/neonstrap/neonstrap/raw/main/Images/Showcase-Dark.png#gh-dark-mode-only
-[repo-showcase-light]: https://github.com/neonstrap/neonstrap/raw/main/Images/Showcase-Light.png#gh-light-mode-only
-
-[discord-invite]: https://discord.gg/SRs5zb9BJd
 
 [bloxstrap]: https://bloxstraplabs.com
 [appleblox]: https://github.com/AppleBlox/appleblox
