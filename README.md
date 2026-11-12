@@ -4,9 +4,6 @@
 
 <div align="center">
 
-![][banner-light]
-![][banner-dark]
-
 </div>
 
 Neonstrap (pronounced neon-strap) is a custom bootstrapper for Roblox based on
